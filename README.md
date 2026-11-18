@@ -39,6 +39,10 @@ Users can enter passenger details and receive a predicted survival result with a
 
 The selected model achieved 81.1% test accuracy in the Project 4 tree-depth comparison.
 
+## Deployed Streamlit Application
+
+https://interncircle-titanic-survival-app.streamlit.app/
+
 ## Disclaimer
 
 This application is an educational project based on historical Titanic passenger data. Its predictions are not factual or suitable for real-world decisions.
